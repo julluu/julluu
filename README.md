@@ -1,17 +1,18 @@
 ### Hi there 👋
 
 I'm Juulia, second year Information Science Student at University of Oulu. I'm also an emergency radiographer.
+I love makeup, gaming (both video and board games), reading and gym.
 
 When it comes to programming, I've mainly programmed in  Java, but I've also learned the basics of Elixir, C and Python. I have used Mac and Windows. I mainly use VSCode as a platform.
 Of the courses I attended, I would name Data Structures and  Algorithms, Databases, Programming courses and Information
 Security as the most important.
 
+
 Some of the projects I have to keep private because they are part of my school assignments, but I'm happy to share those with you if you're interested!
 
 🌱 Currently learning 🌱
 
-Languages:
- Java, C, Python, Elixir
+Languages: Java, C, Python, Elixir
 
 Other skills: SQL, Visual Studio Code, Eclipse, JUnit
 
