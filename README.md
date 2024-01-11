@@ -7,6 +7,7 @@ Of the courses I attended, I would name Data Structures and  Algorithms, Databas
 Security as the most important.
 
 🌱 Currently learning 🌱
+
 Languages:
 *Java
 *C
