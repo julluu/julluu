@@ -9,16 +9,9 @@ Security as the most important.
 🌱 Currently learning 🌱
 
 Languages:
-*Java
-*C
-*Python
-*Elixir
+ Java, C, Python, Elixir
 
-Other skills:
-*SQL
-*Visual Studio Code
-*Eclipse
-*JUnit
+Other skills: SQL, Visual Studio Code, Eclipse, JUnit
 
 
 
