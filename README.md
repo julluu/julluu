@@ -17,9 +17,9 @@ Other skills: SQL, Visual Studio Code, Eclipse, JUnit
 
 Projects:
 
-[MyMakeupProject](https://github.com/julluu/MakeupProject)
+[MyMakeupProject](https://github.com/julluu/MakeupProject) Project to track my makeup usage and makeup collection
 
-[Hangman](https://github.com/julluu/Hangman) (School assigment, Spring 2023)
+[Hangman](https://github.com/julluu/Hangman) (School assigment, Spring 2023) Just a hangman game
 
 <!--
 **julluu/julluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
