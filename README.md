@@ -6,6 +6,8 @@ When it comes to programming, I've mainly programmed in  Java, but I've also lea
 Of the courses I attended, I would name Data Structures and  Algorithms, Databases, Programming courses and Information
 Security as the most important.
 
+Some of the projects I have to keep private because they are part of my school assignments, but I'm happy to share those with you if you're interested!
+
 🌱 Currently learning 🌱
 
 Languages:
