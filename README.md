@@ -18,7 +18,7 @@ Other skills: SQL, Visual Studio Code, Eclipse, JUnit
 
 Projects:
 
-[MyMakeupProject](https://github.com/julluu/MakeupProject) Project to track my makeup usage and makeup collection
+[MyMakeupProject](https://github.com/julluu/ProjectMakeup) Project to track my makeup usage and makeup collection
 
 [Hangman](https://github.com/julluu/Hangman) (School assigment, Spring 2023) Just a hangman game
 
