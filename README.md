@@ -12,7 +12,7 @@ Some of the projects I have to keep private because they are part of my school a
 
 🌱 Currently learning 🌱
 
-Languages: Java, C, Python, Elixir
+Languages: Java, C, Python, JavaScript
 
 Other skills: SQL, Visual Studio Code, Eclipse, JUnit
 
