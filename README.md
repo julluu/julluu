@@ -3,7 +3,7 @@
 I'm Juulia, second year Information Science Student at University of Oulu. I'm also an emergency radiographer.
 I love makeup, gaming (both video and board games), reading and gym.
 
-When it comes to programming, I've mainly programmed in  Java, but I've also learned the basics of Elixir, C and Python. I have used Mac and Windows. I mainly use VSCode as a platform.
+When it comes to programming, I've mainly programmed in  Java, but I've also learned the basics of Elixir, C and Python. Curently I'm focusing on learning JavaScript. I have used Mac and Windows. I mainly use VSCode as a platform.
 Of the courses I attended, I would name Data Structures and  Algorithms, Databases, Programming courses and Information
 Security as the most important.
 
